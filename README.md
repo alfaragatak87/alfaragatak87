@@ -10,15 +10,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Passionate+about+Software+Dev;Flutter+%26+Dart+Enthusiast;UI%2FUX+%26+Web+Design" alt="Typing SVG" />
 </p>
 
-<!-- Animasi Piala Emas -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=alfaragatak87&theme=tokyonight&no-bg=true&no-frame=true&margin-w=15" alt="Trophy" />
-</p>
-
-
 ---
 
-### 🐍 (The Snake)
+### 🐍 Animasi Perjalanan Koding Saya (The Snake)
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alfaragatak87/alfaragatak87/output/github-contribution-grid-snake-dark.svg">
