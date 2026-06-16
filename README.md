@@ -17,10 +17,13 @@
 
 ---
 
-### 🐍 Animasi Perjalanan Koding Saya (The Snake)
 <p align="center">
   <!-- Ini adalah lokasi gambar ular yang akan hidup nanti -->
-  <img src="https://raw.githubusercontent.com/alfaragatak87/alfaragatak87/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alfaragatak87/alfaragatak87/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alfaragatak87/alfaragatak87/output/github-contribution-grid-snake.svg">
+  <img alt="Animasi Ular Github" src="https://raw.githubusercontent.com/alfaragatak87/alfaragatak87/output/github-contribution-grid-snake-dark.svg">
+</picture>
 </p>
 
 ---
