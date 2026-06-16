@@ -15,6 +15,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=alfaragatak87&theme=tokyonight&no-bg=true&no-frame=true&margin-w=15" alt="Trophy" />
 </p>
 
+
 ---
 
 ### 🐍 (The Snake)
