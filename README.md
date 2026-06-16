@@ -12,33 +12,36 @@
 
 <!-- Animasi Piala Emas -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=alfaragatak87&theme=tokyonight&margin-w=15&no-frame=true&no-bg=true" alt="Trophy" />
+  <img src="https://github-profile-trophy.vercel.app/?username=alfaragatak87&theme=tokyonight&no-bg=true&no-frame=true&margin-w=15" alt="Trophy" />
 </p>
 
 ---
 
+### 🐍 (The Snake)
 <p align="center">
-  <!-- Ini adalah lokasi gambar ular yang akan hidup nanti -->
   <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alfaragatak87/alfaragatak87/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alfaragatak87/alfaragatak87/output/github-contribution-grid-snake.svg">
-  <img alt="Animasi Ular Github" src="https://raw.githubusercontent.com/alfaragatak87/alfaragatak87/output/github-contribution-grid-snake-dark.svg">
-</picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alfaragatak87/alfaragatak87/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alfaragatak87/alfaragatak87/output/github-contribution-grid-snake.svg">
+    <img alt="Animasi Ular Github" src="https://raw.githubusercontent.com/alfaragatak87/alfaragatak87/output/github-contribution-grid-snake-dark.svg">
+  </picture>
 </p>
 
 ---
 
 ### 👨‍💻 Tentang Saya & 🛠️ Tech Stack
-<table align="center">
+
+<table align="center" width="100%">
   <tr>
     <td width="50%" valign="top">
-      - 🔭 Saat ini sedang mengembangkan **TraceFace**.<br>
-      - 🌱 Sedang memperdalam ilmu **Mobile Development**.<br>
-      - 💬 Tanya saya tentang **Flutter, PHP, atau UI/UX**.<br>
-      - 📫 Instagram: **[@alfamuhammad__](https://instagram.com/alfamuhammad__)**
+      <ul>
+        <li>🔭 Saat ini sedang mengembangkan <b>TraceFace</b>.</li>
+        <li>🌱 Sedang memperdalam ilmu <b>Mobile Development</b>.</li>
+        <li>💬 Tanya saya tentang <b>Flutter, PHP, atau UI/UX</b>.</li>
+        <li>📫 Instagram: <a href="https://instagram.com/alfamuhammad__"><b>@alfamuhammad__</b></a></li>
+      </ul>
     </td>
     <td width="50%" valign="top" align="center">
-      <!-- Animasi Icon Teknologi -->
+      <br>
       <img src="https://skillicons.dev/icons?i=flutter,dart,html,css,php,sqlite,mysql,figma,git,vscode&perline=5" alt="Tech Stack" />
     </td>
   </tr>
@@ -49,6 +52,6 @@
 ### 📊 Statistik Github 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alfaragatak87&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Alfatih's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=alfaragatak87&show_icons=true&theme=tokyonight&hide_border=true" alt="Alfatih's GitHub Stats" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=alfaragatak87&theme=tokyonight&hide_border=true" alt="Alfatih's GitHub Streak" width="48%" />
 </p>
