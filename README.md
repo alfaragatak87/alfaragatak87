@@ -12,7 +12,7 @@
 
 ---
 
-### 🐍 Animasi Perjalanan Koding Saya (The Snake)
+### 🐍 Perjalanan Koding Saya
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alfaragatak87/alfaragatak87/output/github-contribution-grid-snake-dark.svg">
@@ -29,7 +29,7 @@
   <tr>
     <td width="50%" valign="top">
       <ul>
-        <li>🔭 Saat ini sedang mengembangkan <b>TraceFace</b>.</li>
+        <li>🔭 Saat ini sedang mengembangkan <b>UniMate</b> dan <b>Alfatih Digital Workspace</b>.</li>
         <li>🌱 Sedang memperdalam ilmu <b>Mobile Development</b>.</li>
         <li>💬 Tanya saya tentang <b>Flutter, PHP, atau UI/UX</b>.</li>
         <li>📫 Instagram: <a href="https://instagram.com/alfamuhammad__"><b>@alfamuhammad__</b></a></li>
@@ -37,14 +37,38 @@
     </td>
     <td width="50%" valign="top" align="center">
       <br>
-      <img src="https://skillicons.dev/icons?i=flutter,dart,html,css,php,sqlite,mysql,figma,git,vscode&perline=5" alt="Tech Stack" />
+      <img src="https://skillicons.dev/icons?i=flutter,dart,html,css,js,react,php,laravel,java,mysql,sqlite,figma,git,vscode&perline=5" alt="Tech Stack" />
     </td>
   </tr>
 </table>
 
 ---
 
-### 📊 Statistik Github 
+### 🚀 Proyek Pilihan
+
+<table align="center" width="100%">
+  <tr>
+    <td width="33%" valign="top">
+      <b>🎓 <a href="https://github.com/alfaragatak87/UniMate">UniMate</a></b><br>
+      Asisten produktivitas mahasiswa: jadwal kuliah, pelacak IPK, skripsi Kanban, dan AI scanner.<br>
+      <sub>React · Vite · Electron · PWA</sub>
+    </td>
+    <td width="33%" valign="top">
+      <b>🕵️ <a href="https://github.com/alfaragatak87/traceface">TraceFace</a></b><br>
+      Aplikasi mobile local-first untuk mendata dan memindai orang hilang dengan pengenalan wajah.<br>
+      <sub>Flutter · Dart · SQLite</sub>
+    </td>
+    <td width="33%" valign="top">
+      <b>🗂️ Alfatih Digital Workspace</b> <sub>(private)</sub><br>
+      Platform web: penyimpanan file, pembuat CV/portofolio, dan direktori talenta.<br>
+      <sub>PHP · MySQL</sub>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📊 Statistik GitHub 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=alfaragatak87&show_icons=true&theme=tokyonight&hide_border=true" alt="Alfatih's GitHub Stats" width="48%" />
