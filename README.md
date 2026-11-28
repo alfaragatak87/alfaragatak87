@@ -2,7 +2,7 @@
 
 <img src="assets/banner.svg" alt="Muhammad Alfatih, Mobile & Web Developer" width="100%" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&pause=1200&color=64B5F6&center=true&vCenter=true&width=440&height=30&lines=Flutter+%26+Dart+Developer;PHP+%7C+Laravel+%7C+React;UI%2FUX+%26+Web+Design" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=17&pause=1200&color=64B5F6&center=true&vCenter=true&width=340&height=30&lines=Flutter+%26+Dart+Developer;PHP+%7C+Laravel+%7C+React;UI%2FUX+%26+Web+Design" alt="Typing SVG" />
 
 <br>
 
@@ -29,8 +29,7 @@ Mahasiswa Informatika di ITB Widya Gama Lumajang yang membangun aplikasi mobile 
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,js,react,php,laravel,java,html,css&perline=9" alt="Bahasa dan framework" /><br>
-  <img src="https://skillicons.dev/icons?i=mysql,sqlite,figma,git,github,vscode&perline=6" alt="Database dan tools" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,js,react,php,laravel,java,html,css,mysql,sqlite,figma,git,github,vscode&perline=5" alt="Tech stack" width="300" />
 </p>
 
 <img src="assets/divider.svg" width="100%" alt="" />
