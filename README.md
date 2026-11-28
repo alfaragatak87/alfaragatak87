@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0f172a,100:2196f3&text=Muhammad%20Alfatih&fontColor=ffffff&fontSize=46&fontAlignY=38&desc=Mobile%20%26%20Web%20Developer&descSize=20&descAlignY=60&animation=fadeIn" alt="Muhammad Alfatih" width="100%" />
+<img src="assets/banner.svg" alt="Muhammad Alfatih, Mobile & Web Developer" width="100%" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1200&color=2196F3&center=true&vCenter=true&width=520&lines=Informatics+Student+%40+ITB+Widya+Gama+Lumajang;Flutter+%26+Dart+Developer;PHP+%26+Laravel+%7C+React+%7C+UI%2FUX" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&pause=1200&color=64B5F6&center=true&vCenter=true&width=440&height=30&lines=Flutter+%26+Dart+Developer;PHP+%7C+Laravel+%7C+React;UI%2FUX+%26+Web+Design" alt="Typing SVG" />
 
 <br>
 
@@ -12,7 +12,7 @@
 
 </div>
 
----
+<img src="assets/divider.svg" width="100%" alt="" />
 
 ## 👨‍💻 Tentang Saya
 
@@ -29,7 +29,7 @@ Mahasiswa Informatika di ITB Widya Gama Lumajang yang membangun aplikasi mobile 
 | 💬 **Bisa diajak diskusi** | Flutter, PHP, UI/UX |
 | 📍 **Lokasi** | Lumajang, Jawa Timur |
 
----
+<img src="assets/divider.svg" width="100%" alt="" />
 
 ## 🛠️ Tech Stack
 
@@ -38,7 +38,7 @@ Mahasiswa Informatika di ITB Widya Gama Lumajang yang membangun aplikasi mobile 
   <img src="https://skillicons.dev/icons?i=mysql,sqlite,figma,git,github,vscode&perline=6" alt="Database dan tools" />
 </p>
 
----
+<img src="assets/divider.svg" width="100%" alt="" />
 
 ## 🚀 Proyek Pilihan
 
@@ -53,7 +53,7 @@ Mahasiswa Informatika di ITB Widya Gama Lumajang yang membangun aplikasi mobile 
 
 **🗂️ Alfatih Digital Workspace** *(repo private)*: platform web PHP untuk penyimpanan file, pembuat CV/portofolio, dan direktori talenta.
 
----
+<img src="assets/divider.svg" width="100%" alt="" />
 
 ## 📊 Statistik GitHub
 
