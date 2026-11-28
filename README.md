@@ -18,8 +18,12 @@
 
 Mahasiswa Informatika di ITB Widya Gama Lumajang yang membangun aplikasi mobile dan web, dari antarmuka sampai database. Saya suka proyek yang benar-benar dipakai orang: aplikasi untuk mahasiswa, pendataan orang hilang, dan platform manajemen file dan portofolio.
 
-| | |
-|---|---|
+- 🔭 **Sedang dikerjakan:** UniMate dan Alfatih Digital Workspace
+- 🌱 **Sedang didalami:** Mobile Development (Flutter)
+- 💬 **Bisa diajak diskusi:** Flutter, PHP, UI/UX
+- 📍 **Lokasi:** Lumajang, Jawa Timur
+
+---|---|
 | 🔭 **Sedang dikerjakan** | UniMate dan Alfatih Digital Workspace |
 | 🌱 **Sedang didalami** | Mobile Development (Flutter) |
 | 💬 **Bisa diajak diskusi** | Flutter, PHP, UI/UX |
