@@ -23,11 +23,6 @@ Mahasiswa Informatika di ITB Widya Gama Lumajang yang membangun aplikasi mobile 
 - 💬 **Bisa diajak diskusi:** Flutter, PHP, UI/UX
 - 📍 **Lokasi:** Lumajang, Jawa Timur
 
----|---|
-| 🔭 **Sedang dikerjakan** | UniMate dan Alfatih Digital Workspace |
-| 🌱 **Sedang didalami** | Mobile Development (Flutter) |
-| 💬 **Bisa diajak diskusi** | Flutter, PHP, UI/UX |
-| 📍 **Lokasi** | Lumajang, Jawa Timur |
 
 <img src="assets/divider.svg" width="100%" alt="" />
 
