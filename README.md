@@ -28,10 +28,13 @@
 <table align="center" width="100%">
   <tr>
     <td width="50%" valign="top">
+      <p>Mahasiswa Informatika di ITB Widya Gama Lumajang yang membangun aplikasi mobile dan web, dari antarmuka sampai database.</p>
       <ul>
-        <li>🔭 Saat ini sedang mengembangkan <b>UniMate</b> dan <b>Alfatih Digital Workspace</b>.</li>
-        <li>🌱 Sedang memperdalam ilmu <b>Mobile Development</b>.</li>
-        <li>💬 Tanya saya tentang <b>Flutter, PHP, atau UI/UX</b>.</li>
+        <li>🔭 <b>Sedang dikerjakan:</b> UniMate dan Alfatih Digital Workspace</li>
+        <li>🌱 <b>Sedang didalami:</b> Mobile Development (Flutter)</li>
+        <li>💬 <b>Bisa diajak diskusi:</b> Flutter, PHP, UI/UX</li>
+        <li>📍 Lumajang, Jawa Timur</li>
+        <li>🌐 Web: <a href="https://gawe.my.id"><b>gawe.my.id</b></a></li>
         <li>📫 Instagram: <a href="https://instagram.com/alfamuhammad__"><b>@alfamuhammad__</b></a></li>
       </ul>
     </td>
