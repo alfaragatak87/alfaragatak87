@@ -14,19 +14,19 @@
 
 <img src="assets/divider.svg" width="100%" alt="" />
 
-## 👨‍💻 Tentang Saya
+## Tentang Saya
 
 Mahasiswa Informatika di ITB Widya Gama Lumajang yang membangun aplikasi mobile dan web, dari antarmuka sampai database. Saya suka proyek yang benar-benar dipakai orang: aplikasi untuk mahasiswa, pendataan orang hilang, dan platform manajemen file dan portofolio.
 
-- 🔭 **Sedang dikerjakan:** UniMate dan Alfatih Digital Workspace
-- 🌱 **Sedang didalami:** Mobile Development (Flutter)
-- 💬 **Bisa diajak diskusi:** Flutter, PHP, UI/UX
-- 📍 **Lokasi:** Lumajang, Jawa Timur
+- **Sedang dikerjakan:** UniMate dan Alfatih Digital Workspace
+- **Sedang didalami:** Mobile Development (Flutter)
+- **Bisa diajak diskusi:** Flutter, PHP, UI/UX
+- **Lokasi:** Lumajang, Jawa Timur
 
 
 <img src="assets/divider.svg" width="100%" alt="" />
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=flutter,dart,js,react,php,laravel,java,html,css,mysql,sqlite,figma,git,github,vscode&perline=5" alt="Tech stack" width="300" />
@@ -34,7 +34,7 @@ Mahasiswa Informatika di ITB Widya Gama Lumajang yang membangun aplikasi mobile 
 
 <img src="assets/divider.svg" width="100%" alt="" />
 
-## 🚀 Proyek Pilihan
+## Proyek Pilihan
 
 <p align="center">
   <a href="https://github.com/alfaragatak87/UniMate">
@@ -45,18 +45,18 @@ Mahasiswa Informatika di ITB Widya Gama Lumajang yang membangun aplikasi mobile 
   </a>
 </p>
 
-**🗂️ Alfatih Digital Workspace** *(repo private)*: platform web PHP untuk penyimpanan file, pembuat CV/portofolio, dan direktori talenta.
+**Alfatih Digital Workspace** *(repo private)*: platform web PHP untuk penyimpanan file, pembuat CV/portofolio, dan direktori talenta.
 
 <img src="assets/divider.svg" width="100%" alt="" />
 
-## 📊 Statistik GitHub
+## Statistik GitHub
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=alfaragatak87&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=alfaragatak87&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
 </p>
 
-## 🐍 Perjalanan Koding
+## Perjalanan Koding
 
 <p align="center">
   <picture>

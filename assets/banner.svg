@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280" role="img" aria-label="Muhammad Alfatih, Mobile and Web Developer">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-label="Muhammad Alfatih, Mobile and Web Developer">
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#0b1220"/>
@@ -16,11 +16,11 @@
       <stop offset="0" stop-color="#42a5f5" stop-opacity="0.55"/>
       <stop offset="1" stop-color="#42a5f5" stop-opacity="0"/>
     </radialGradient>
-    <clipPath id="round"><rect width="1200" height="280" rx="18"/></clipPath>
+    <clipPath id="round"><rect width="1200" height="320" rx="18"/></clipPath>
   </defs>
   <g clip-path="url(#round)">
-    <rect width="1200" height="280" fill="url(#bg)"/>
-    <rect width="1200" height="280" fill="url(#grid)"/>
+    <rect width="1200" height="320" fill="url(#bg)"/>
+    <rect width="1200" height="320" fill="url(#grid)"/>
     <circle cx="1020" cy="70" r="200" fill="url(#glow)">
       <animate attributeName="cx" values="1020;960;1020" dur="9s" repeatCount="indefinite"/>
       <animate attributeName="cy" values="70;120;70" dur="9s" repeatCount="indefinite"/>
@@ -29,10 +29,10 @@
       <animate attributeName="cx" values="140;220;140" dur="11s" repeatCount="indefinite"/>
     </circle>
     <g font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif">
-      <text x="600" y="128" text-anchor="middle" font-size="60" font-weight="700" fill="#ffffff" letter-spacing="1">Muhammad Alfatih</text>
-      <rect x="540" y="146" width="120" height="4" rx="2" fill="url(#accent)"/>
-      <text x="600" y="190" text-anchor="middle" font-size="22" fill="#bbdefb" letter-spacing="4">MOBILE &amp; WEB DEVELOPER</text>
-      <text x="600" y="228" text-anchor="middle" font-size="15" fill="#90caf9" fill-opacity="0.85" letter-spacing="1">Informatics Student · ITB Widya Gama Lumajang</text>
+      <text x="600" y="140" text-anchor="middle" font-size="88" font-weight="700" fill="#ffffff" letter-spacing="1">Muhammad Alfatih</text>
+      <rect x="530" y="166" width="140" height="6" rx="2" fill="url(#accent)"/>
+      <text x="600" y="222" text-anchor="middle" font-size="38" fill="#bbdefb" letter-spacing="5">MOBILE &amp; WEB DEVELOPER</text>
+      <text x="600" y="276" text-anchor="middle" font-size="28" fill="#90caf9" fill-opacity="0.85" letter-spacing="1">Informatics Student · ITB Widya Gama</text>
     </g>
   </g>
 </svg>
